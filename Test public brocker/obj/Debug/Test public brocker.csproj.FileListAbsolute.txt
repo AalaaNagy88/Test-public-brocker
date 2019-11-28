@@ -1,0 +1,11 @@
+E:\GP\Test public brocker\Test public brocker\bin\Debug\Test public brocker.exe.config
+E:\GP\Test public brocker\Test public brocker\bin\Debug\Test public brocker.exe
+E:\GP\Test public brocker\Test public brocker\bin\Debug\Test public brocker.pdb
+E:\GP\Test public brocker\Test public brocker\bin\Debug\M2Mqtt.Net.dll
+E:\GP\Test public brocker\Test public brocker\bin\Debug\M2Mqtt.Net.pdb
+E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.csprojResolveAssemblyReference.cache
+E:\GP\Test public brocker\Test public brocker\obj\Debug\Test_public_brocker.Form1.resources
+E:\GP\Test public brocker\Test public brocker\obj\Debug\Test_public_brocker.Properties.Resources.resources
+E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.csproj.GenerateResource.Cache
+E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.exe
+E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.pdb
