@@ -18,8 +18,8 @@ namespace Test_public_brocker
         public Form1()
         {
             InitializeComponent();
-            client = new MqttClient("tailor.cloudmqtt.com", 17519, false, null, null, MqttSslProtocols.None);
-            client.Connect(Guid.NewGuid().ToString(), "zndjtezy", "Midx-b_ZcBKB");
+            client = new MqttClient("localhost", 1883, false, null, null, MqttSslProtocols.None);
+            client.Connect(Guid.NewGuid().ToString());
         }
 
         private void send_Click(object sender, EventArgs e)

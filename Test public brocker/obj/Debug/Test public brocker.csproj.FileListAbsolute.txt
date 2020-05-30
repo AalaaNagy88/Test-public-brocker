@@ -9,3 +9,14 @@ E:\GP\Test public brocker\Test public brocker\obj\Debug\Test_public_brocker.Prop
 E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.csproj.GenerateResource.Cache
 E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.exe
 E:\GP\Test public brocker\Test public brocker\obj\Debug\Test public brocker.pdb
+E:\GP\Code\Test public brocker\Test public brocker\bin\Debug\Test public brocker.exe.config
+E:\GP\Code\Test public brocker\Test public brocker\obj\Debug\Test public brocker.exe
+E:\GP\Code\Test public brocker\Test public brocker\obj\Debug\Test public brocker.pdb
+E:\GP\Code\Test public brocker\Test public brocker\bin\Debug\Test public brocker.exe
+E:\GP\Code\Test public brocker\Test public brocker\bin\Debug\Test public brocker.pdb
+E:\GP\Code\Test public brocker\Test public brocker\bin\Debug\M2Mqtt.Net.dll
+E:\GP\Code\Test public brocker\Test public brocker\bin\Debug\M2Mqtt.Net.pdb
+E:\GP\Code\Test public brocker\Test public brocker\obj\Debug\Test public brocker.csprojResolveAssemblyReference.cache
+E:\GP\Code\Test public brocker\Test public brocker\obj\Debug\Test_public_brocker.Form1.resources
+E:\GP\Code\Test public brocker\Test public brocker\obj\Debug\Test_public_brocker.Properties.Resources.resources
+E:\GP\Code\Test public brocker\Test public brocker\obj\Debug\Test public brocker.csproj.GenerateResource.Cache
